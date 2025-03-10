@@ -1,6 +1,6 @@
 import React from "react";
 import "animate.css"; // Ensure Animate.css is installed and imported
-import ourImage from "../assets/Images/E3.jpg"; // Your image import
+import ourImage from "../assets/Images/E3.jpg";
 
 const OurProcess = () => {
   const processSteps = [
